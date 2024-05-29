@@ -1,0 +1,11 @@
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\bin\Debug\net8.0\Testing.Models.deps.json
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\bin\Debug\net8.0\Testing.Models.dll
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\bin\Debug\net8.0\Testing.Models.pdb
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\obj\Debug\net8.0\Testing.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\obj\Debug\net8.0\Testing.Models.AssemblyInfoInputs.cache
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\obj\Debug\net8.0\Testing.Models.AssemblyInfo.cs
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\obj\Debug\net8.0\Testing.Models.csproj.CoreCompileInputs.cache
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\obj\Debug\net8.0\Testing.Models.dll
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\obj\Debug\net8.0\refint\Testing.Models.dll
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\obj\Debug\net8.0\Testing.Models.pdb
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Models\obj\Debug\net8.0\ref\Testing.Models.dll

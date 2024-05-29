@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/gPHytpHoU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel.Alvarez\\source\\repos\\TestingNCapas\\Testing.Report\\Testing.Report.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel.Alvarez\\.nuget\\packages\\devexpress.data\\23.2.6\\devexpress.data.23.2.6.nupkg.sha512",
+    "C:\\Users\\Miguel.Alvarez\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\Miguel.Alvarez\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Miguel.Alvarez\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

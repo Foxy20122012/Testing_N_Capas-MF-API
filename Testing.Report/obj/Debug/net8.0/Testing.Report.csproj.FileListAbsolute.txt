@@ -1,0 +1,11 @@
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\bin\Debug\net8.0\Testing.Report.deps.json
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\bin\Debug\net8.0\Testing.Report.dll
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\bin\Debug\net8.0\Testing.Report.pdb
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\obj\Debug\net8.0\Testing.Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\obj\Debug\net8.0\Testing.Report.AssemblyInfoInputs.cache
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\obj\Debug\net8.0\Testing.Report.AssemblyInfo.cs
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\obj\Debug\net8.0\Testing.Report.csproj.CoreCompileInputs.cache
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\obj\Debug\net8.0\Testing.Report.dll
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\obj\Debug\net8.0\refint\Testing.Report.dll
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\obj\Debug\net8.0\Testing.Report.pdb
+C:\Users\Miguel.Alvarez\source\repos\TestingNCapas\Testing.Report\obj\Debug\net8.0\ref\Testing.Report.dll
